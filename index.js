@@ -1,12 +1,4 @@
 var taxi = new Taxi();
-
-
-taxi.forward();
-
-
-
-var light = taxi.closestTrafficLight();
-
 var key = new KeyPress();
 
 var body = document.querySelector("body");
