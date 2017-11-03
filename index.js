@@ -7,8 +7,6 @@ taxi.forward();
 
 var light = taxi.closestTrafficLight();
 
-light.makeOrange();
-
 var key = new KeyPress();
 
 var body = document.querySelector("body");
